@@ -42,8 +42,9 @@
 
 ## Featured Project
 
-### **AI Tutor Project**
+### [**AI Tutor Project**](https://github.com/jhalilaj/my-ai)  
 An interactive AI-powered learning platform with lesson generation, assessments, and personalized feedback.
+
 
 ---
 

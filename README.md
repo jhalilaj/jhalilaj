@@ -7,7 +7,7 @@
 **Computer Science & AI Graduate**  
 🎓 University of York, CITY College  
 🌍 Greece  
-💡 Interested in AI, software engineering, full-stack development, web apps, and game development  
+💡 Interested in AI, software engineering, full-stack development
 📬 halilaj.juljan@gmail.com  
 
 ---

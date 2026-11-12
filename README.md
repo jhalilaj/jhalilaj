@@ -7,7 +7,7 @@
 **Computer Science & AI Graduate**  
 🎓 University of York, CITY College  
 🌍 Greece  
-💡 Interested in AI, software engineering, full-stack development
+💡 Working on AI, full-stack applications, and Python desktop tools  
 📬 halilaj.juljan@gmail.com  
 
 ---
@@ -16,6 +16,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/juljan-halilaj-2a0a00275/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  </a>
+  <a href="mailto:halilaj.juljan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
   </a>
 </p>
 
@@ -35,16 +38,23 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" /></a>
+  <a href="https://www.qt.io/qt-for-python" target="_blank"><img src="https://skillicons.dev/icons?i=qt" width="40" height="40" /></a>
 </p>
 
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### [**AI Tutor Project**](https://github.com/jhalilaj/my-ai)  
-An interactive AI-powered learning platform with lesson generation, assessments, and personalized feedback.
+### [**AI Tutor Project**](https://github.com/jhalilaj/my-ai)
+My graduation thesis: a learning platform that turns uploaded documents into lessons and quizzes, with AI chat, feedback, and progress tracking.
 
+**Next.js · TypeScript · React · MongoDB · OpenRouter**
+
+### [**FNIRSI DPOS350P WaveForm Reader**](https://github.com/jhalilaj/FNIRSI-DPOS350P-WaveForm-Reader)
+A Windows desktop app for opening saved oscilloscope waveforms, comparing channels, taking cursor measurements, and exporting data.
+
+**Python · PySide6 · PyQtGraph · NumPy**
 
 ---
 
